@@ -13,23 +13,6 @@ I am a versatile and highly skilled Software Engineer with a strong background i
 
 ---
 
-## 💼 Work Experience
-
-- Conducted comprehensive training sessions for Level 5 students in software development, focusing on PHP and the Laravel framework.
-- Designed and implemented interactive learning modules to enhance student understanding of web development concepts and practices.
-- Provided hands-on guidance and support to students, fostering practical skills and encouraging innovative project development.
-
-### School & Linux Project - AUCA
-*2021 - 2024*
-
-- Engaged in diverse software development projects utilizing C, C# .NET, ASP, ASP CORE, Java, Spring, and Spring Boot.
-- Led a specialized project focused on Red Hat technologies, including maintenance and repair of company computers using Linux-based solutions.
-- Developed notable projects such as Pharmacy Management System, Student Registration System, Online Ticket Selling Platform, and Online Apartment Reservation System using Spring Boot MVC and Thymeleaf.
-- Facilitated group discussions and provided hands-on assistance to students with assignments and school projects.
-- Demonstrated proficiency in Java RMI through successful delivery of multiple projects in a Java environment.
-
----
-
 ## 🛠️ Skills
 
 - **Programming Languages:**
