@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Irakiza Jean de la Paix
 
 **Contact Information:**
-- 📞 Phone: +250 788 965 501
 - 📧 Email: irakizajeandelapaix@gmail.com
 - 📍 Location: Kigali, Rwanda
 - [LinkedIn Profile](https://www.linkedin.com/in/irakiza-jean-de-la-paix-243757228/)
@@ -15,28 +14,6 @@ I am a versatile and highly skilled Software Engineer with a strong background i
 ---
 
 ## 💼 Work Experience
-
-### CEO & Software Engineer - Grade Tech Group
-*2024 - Present*
-
-- Founded and currently lead an online software development company, overseeing all technical and business operations.
-
-### Software Developer, Software Bootcamp Trainer & Software Analyst - Dyna Soft
-*18/06/2024 - Present*
-
-- Develop software solutions using Laravel.
-- Train students in PHP, Django, and React.
-- Conduct software analytics to enhance project outcomes.
-
-### Intern - Ministry of Finance and Economic Planning (MINECOFIN)
-*08/04/2024 - 06/07/2024*
-
-- Studied system analysis and Spring Core.
-- Utilized ZK framework for frontend development.
-- Engaged in various technical tasks to support ongoing projects.
-
-### Software Development Trainer - APADE High School
-*2024*
 
 - Conducted comprehensive training sessions for Level 5 students in software development, focusing on PHP and the Laravel framework.
 - Designed and implemented interactive learning modules to enhance student understanding of web development concepts and practices.
@@ -95,46 +72,4 @@ I am a versatile and highly skilled Software Engineer with a strong background i
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 📜 Certifications
-
-- **2023:** Certificate of Training Attendance in BANKATHON CHICKTO Cyber Tech Africa
-- **2023:** Linux Essentials (CISCO)
-- **2023:** Partner: NDG Linux Unhatched (CISCO)
-- **2022:** Introduction to Cybersecurity from (CISCO)
-- **2022:** Networking Essentials from (CISCO)
-- **2022:** Cybersecurity Essentials from (CISCO)
-
----
-
-## 🌐 Languages
-
-- **English:** Fluent
-- **Kinyarwanda:** Fluent
-
----
-
-## 📚 Education
-
-- **Bachelor of Information Technology in Software Engineering**
-  - Adventist University of Central Africa (AUCA), 2021 - 2024
-- **A2 Diploma in Software Development**
-  - KATS, 2017 - 2019
-
----
-
-## 📞 References
-
-- **Rugwiza Eric**
-  - Phone: +250 788 520 148
-  - Email: eric.rugwiza@auca.ac.rw
-  - Instructor / AUCA
-
-- **Tuyisenge Ukundwa Jeremie**
-  - Phone: +250 785 688 953
-  - Email: jeremie.tuyisenge@minecofin.gov.rw
-  - Senior Software Engineer Consultant / MINECOFIN, Instructor / AUCA
-
----
-
 Feel free to reach out to me through any of the contact information provided above. I'm always open to discussing new opportunities, collaborations, and projects!
