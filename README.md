@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Irakiza Jean de la Paix
+# 👋 Hi, I'm La Paix
 
 **Contact Information:**
 - 📧 Email: irakizajeandelapaix@gmail.com
