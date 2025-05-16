@@ -5,6 +5,9 @@
 - 📍 Location: Kigali, Rwanda
 - [LinkedIn Profile](https://www.linkedin.com/in/irakiza-jean-de-la-paix-243757228/)
 
+- [portfolio]
+(https://lapaix-folio.vercel.app/)
+
 ---
 
 ## 🚀 About Me
